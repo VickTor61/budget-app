@@ -410,17 +410,3 @@ const appController = ((budgetCtrl, UICtrl) => {
 })(budgetController, UIController);
 appController.init();
 
-/*
-SHA256:Y43pHek82JA9PZBcML/dEfCC5z8d7bBbTFJOR4QjZY8 vickjunior2002@gmail.com
-The key's randomart image is:
-+---[RSA 4096]----+
-|          o..o++o|
-|         . =o.++.|
-|          +..+E+=|
-|         * +oo.=+|
-|        S * +.+.=|
-|       o O o ..Bo|
-|        o *   .o=|
-|           .   o.|
-|              .  |
-*/
